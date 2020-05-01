@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.com/SmintGaming/checksums.svg?branch=master)](https://travis-ci.com/SmintGaming/checksums)
+[![Known Vulnerabilities](https://snyk.io/test/npm/checksums/badge.svg)](https://snyk.io/test/npm/checksums)
 # checksums
 A NPM CLI/Package For Finding The Checksums Of A File
 
