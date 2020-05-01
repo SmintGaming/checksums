@@ -14,9 +14,9 @@ For Finding SHA256 Hashes `./checksums.js | grep SHA256`
 
 For Finding SHA1 Hashes `./checksums.js | grep SHA1`
 
-## Normal Output
+## Output
 
-**./checksums.js**
+
 `
 > node checksums.js
 
