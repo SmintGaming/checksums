@@ -4,15 +4,15 @@ A NPM Package For Finding The Checksums Of A File
 ## Usage 
 Normal Usage `./checksums.js` or `npx checksums`
 
-For Finding MD4 Hashes `./checksums.js | grep MD4` or `npx checksums  | grep MD4`
+For Finding MD4 Checksums `./checksums.js | grep MD4` or `npx checksums  | grep MD4`
 
-For Finding MD5 Hashes `./checksums.js | grep MD5` or `npx checksums  | grep MD5`
+For Finding MD5 Checksums `./checksums.js | grep MD5` or `npx checksums  | grep MD5`
 
-For Finding SHA512 Hashes `./checksums.js | grep SHA512` or `npx checksums  | grep SHA512`
+For Finding SHA512 Checksums `./checksums.js | grep SHA512` or `npx checksums  | grep SHA512`
 
-For Finding SHA256 Hashes `./checksums.js | grep SHA256` or `npx checksums  | grep SHA256`
+For Finding SHA256 Checksums `./checksums.js | grep SHA256` or `npx checksums  | grep SHA256`
 
-For Finding SHA1 Hashes `./checksums.js | grep SHA1` or `npx checksums  | grep SHA1`
+For Finding SHA1 Checksums `./checksums.js | grep SHA1` or `npx checksums  | grep SHA1`
 
 ## LICENCE
 
