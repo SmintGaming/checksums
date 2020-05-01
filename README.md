@@ -1,5 +1,5 @@
 # checksums
-A NPM Package For Finding The Checksums Of A File
+A NPM CLI/Package For Finding The Checksums Of A File
 
 ## Usage 
 Normal Usage `./checksums.js` or `npx checksums`
