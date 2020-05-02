@@ -1,20 +1,23 @@
 [![Build Status](https://travis-ci.com/SmintGaming/checksums.svg?branch=master)](https://travis-ci.com/SmintGaming/checksums)
 [![Known Vulnerabilities](https://snyk.io/test/npm/checksums/badge.svg)](https://snyk.io/test/npm/checksums)
-# checksums
+# Checksums
 A NPM CLI/Package For Finding The Checksums Of A File
 
 ## Usage 
-Normal Usage `./checksums.js` or `npx checksums`
+Execute The Following Cmd To Install Checksums `npm install checksums && npm link` or `git clone https://github.com/SmintGaming/checksums.git && cd checksums && npm link`
 
-For Finding MD4 Checksums `./checksums.js | grep MD4` or `npx checksums  | grep MD4`
+Normal Usage `./checksums.js` or `npx checksums` or `checksums`
 
-For Finding MD5 Checksums `./checksums.js | grep MD5` or `npx checksums  | grep MD5`
+For Finding MD4 Checksums `./checksums.js | grep MD4` or `npx checksums  | grep MD4` or `checksums | grep MD4`
 
-For Finding SHA512 Checksums `./checksums.js | grep SHA512` or `npx checksums  | grep SHA512`
+For Finding MD5 Checksums `./checksums.js | grep MD5` or `npx checksums  | grep MD5` or `checksums | grep MD5`
 
-For Finding SHA256 Checksums `./checksums.js | grep SHA256` or `npx checksums  | grep SHA256`
+For Finding SHA512 Checksums `./checksums.js | grep SHA512` or `npx checksums  | grep SHA512` or `checksums | grep SHA512`
 
-For Finding SHA1 Checksums `./checksums.js | grep SHA1` or `npx checksums  | grep SHA1`
+
+For Finding SHA256 Checksums `./checksums.js | grep SHA256` or `npx checksums  | grep SHA256` or `checksums | grep SHA256`
+
+For Finding SHA1 Checksums `./checksums.js | grep SHA1` or `npx checksums  | grep SHA1` or `checksums | grep SHA1`
 
 ## LICENCE
 
