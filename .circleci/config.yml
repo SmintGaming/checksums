@@ -9,7 +9,7 @@ jobs:
       - checkout
       - node/with-cache:
           steps:
-            - run: npm install -g checksums
+            - run: sudo npm install -g checksums
             - run: sudo node test.js
 workflows:
     build-and-test:
