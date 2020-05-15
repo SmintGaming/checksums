@@ -1,6 +1,6 @@
 {
   "name": "checksums",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A Simple CLI For Finding The Checksums Of A File (Supports SHA512,SHA256,SHA1,MD5,MD4)",
   "main": "checksums.js",
   "scripts": {
