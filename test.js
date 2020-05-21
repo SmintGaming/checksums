@@ -1,4 +1,5 @@
 const { execSync } = require('child_process');
+console.log(process.version);
 // stderr is sent to stdout of parent process
 // you can set options.stdio if you want it to go elsewhere
 const stdout = execSync('npx checksums');
