@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+/*jshint esversion: 8 */
 var crypto = require('crypto');
 var fs = require('fs');
 const readline = require('readline');

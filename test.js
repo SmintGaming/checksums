@@ -1,3 +1,4 @@
+/*jshint esversion: 8 */
 const { execSync } = require('child_process');
 console.log("Debug Output " + process.version + process.pid + process.arch + process.cwd);
 // stderr is sent to stdout of parent process
